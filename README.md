@@ -1,2 +1,2 @@
-# boilerplate-socketio
-A boilerplate for the freeCodeCamp curriculum referenced in 'Socket.IO Introduction'.
+**FreeCodeCamp**
+[![Run on Repl.it](https://repl.it/badge/github/aa947/boilerplate-socketio)](https://repl.it/github/aa947/boilerplate-socketio)
